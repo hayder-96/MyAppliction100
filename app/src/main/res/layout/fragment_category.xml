@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main2"
+
+    android:orientation="vertical"
+
+    android:background="#ffffff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_margin="50dp"
+        android:elevation="15dp"
+        app:cardCornerRadius="9dp"
+        app:cardBackgroundColor="#F4FAFA"
+        android:layout_height="160dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/frut1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:layout_margin="7dp"
+                android:layout_weight="1"
+                android:background="@drawable/fruit" />
+
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textfrut1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textColor="#0B0A0A"
+                android:text="@string/ARABIC"
+                android:textSize="40dp" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <View
+        android:layout_width="wrap_content"
+        android:background="#000000"
+        android:layout_height="3dp"/>
+
+</LinearLayout>

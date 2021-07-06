@@ -1,0 +1,54 @@
+
+<resources>
+
+
+
+
+    <string name="app_name">My Application100</string>
+
+    <string name="ARABIC">ARABIC</string>
+    <string name="ENGLISH">ENGLISH</string>
+
+
+
+    <string name="veget">veget</string>
+    <string name="fruit">fruit</string>
+
+    <string name="tmato">tmato</string>
+    <string name="batata">ptato</string>
+
+    <string name="bathngan">batngan</string>
+    <string name="khear">khear</string>
+
+
+    <string name="apple">apple</string>
+    <string name="banana">bnana</string>
+
+    <string name="rman">rman</string>
+    <string name="anans">ananas</string>
+    <string name="grib">grib</string>
+    <string name="orange">orange</string>
+
+
+
+
+
+
+    <string name="vitamin">vitamin     =  40   </string>
+    <string name="water">water         =  50  </string>
+    <string name="force">force         =  70</string>
+
+
+    <string name="vitamin2">vitamin     =  60  </string>
+    <string name="water2">water         =  20  </string>
+    <string name="force2">force         =  90</string>
+
+
+
+
+
+
+
+
+
+</resources>

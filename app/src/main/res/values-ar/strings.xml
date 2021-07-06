@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="app_name">My Application100</string>
+
+
+    <string name="ARABIC">عربي</string>
+    <string name="ENGLISH">انجليزي</string>
+
+
+
+
+    <string name="veget">خضار</string>
+    <string name="fruit">فواكه</string>
+
+
+    <string name="tmato" >طماطم</string>
+    <string name="batata">بطاطا</string>
+
+    <string name="bathngan">باذنجان</string>
+    <string name="khear">خيار</string>
+
+
+    <string name="apple">تفاح</string>
+    <string name="banana">موز</string>
+
+    <string name="rman">رمان</string>
+    <string name="anans">اناناس</string>
+    <string name="grib">عنب</string>
+    <string name="orange">برتقال</string>
+
+
+
+
+
+    <string name="vitamin">فيتامين     =  40   </string>
+    <string name="water">ماء        =  50  </string>
+    <string name="force">طاقة         =  70</string>
+
+
+    <string name="vitamin2">فيتامين    =  60  </string>
+    <string name="water2">ماء         =  20  </string>
+    <string name="force2">طاقة         =  90</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
